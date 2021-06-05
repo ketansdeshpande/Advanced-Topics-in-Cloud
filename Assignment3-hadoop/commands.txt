@@ -1,0 +1,3 @@
+check output files on hdfs
+hdfs dfs -ls output
+
